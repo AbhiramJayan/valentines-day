@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15%;
+}
+.sub{
+    display: flex;
+}
+.sub p{
+    font-family: Lovers Quarrel, cursive;
+    font-size: 50px;
+}
+.sub1{
+    border: none;
+    margin-right: 500px;
+    position: absolute;
+    margin-top: 10%;
+}
+.sub2{
+    border: none;
+    position: relative;
+    margin-top: 15%;
+}
